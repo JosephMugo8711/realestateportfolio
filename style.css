@@ -81,7 +81,7 @@ body{
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 .home .max-width{
   width: 100%;
