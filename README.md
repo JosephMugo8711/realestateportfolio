@@ -1,1 +1,2 @@
 # realestateportfolio
+ARCHITECTURE
